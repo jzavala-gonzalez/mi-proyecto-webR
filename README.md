@@ -4,14 +4,18 @@
 
 Código final del tutorial ["Intro a webR (con Svelte)"](https://www.intentando.dev/posts/webr-intro/).
 
-Para correrlo clona el código y corre lo siguiente en tu terminal:
+La app esta disponible en vivo [aqui](https://mi-proyecto-webr.netlify.app/).
+
+
+
+Para correrlo localmente, clona el código y corre lo siguiente en tu terminal:
 ```
 npm install
 npm run dev
 ```
 
 
-Alternativamente, intenta este LINK A LA APP EN NETLIFY
+
 
 
 
